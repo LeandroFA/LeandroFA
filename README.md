@@ -4,7 +4,7 @@
 
 Transformo dados em decisões claras, dashboards úteis e produtos que apoiam o trabalho real. Minha atuação combina análise, qualidade de dados, automação e comunicação de resultados.
 
-Atualmente, sou formado em Gestão da Tecnologia da Informação pela CESAR School e pós-graduando em Análise de Dados e Inteligência Artificial.
+Atualmente, estou concluindo a graduação em Gestão da Tecnologia da Informação pela CESAR School e sou pós-graduando em Análise de Dados e Inteligência Artificial.
 
 Minha formação em GTI também oferece uma visão ampla de tecnologia, processos e negócios, com aderência a atividades de Product Owner, Quality Assurance e análise de projetos.
 
